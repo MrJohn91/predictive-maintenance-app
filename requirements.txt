@@ -5,3 +5,4 @@ joblib
 openai
 scikit-learn
 python-dotenv
+langchain
