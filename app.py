@@ -130,4 +130,8 @@ user_input = st.sidebar.text_input("Ask me anything about vehicle maintenance:")
 if user_input:
     with st.spinner("generating a response..."):
         chatbot_response = generate_gpt3_response_with_langchain(user_input, features_real)
-        st.sidebar.markdown(f"**Assistant:** {chatbot_response}")
+        st.sidebar.markdown(f"**Mr J:** {chatbot_response}")
+
+# image
+st.image("vehicles.jpg", use_column_width=True)
+
