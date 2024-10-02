@@ -43,7 +43,7 @@ st.markdown(
 )
 
 # Title
-st.markdown("<h1>Predictive Maintenance for Vehicle Engines</h1>", unsafe_allow_html=True)
+st.markdown("<h1>Predictive Maintenance for Automotive Engines</h1>", unsafe_allow_html=True)
 
 # model and scaler
 model = joblib.load('svm_predictive_maintenance_model.pkl')
