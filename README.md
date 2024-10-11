@@ -1,5 +1,7 @@
 # predictive-maintenance-app
 
+![Vehicles](https://github.com/MrJohn91/predictive-maintenance-app/raw/main/vehicles.jpg)
+
 ## Summary
 This project is a Streamlit-based web application designed for predictive maintenance of Automotive engines. The app uses machine learning to predict when a vehicle engine is likely to need maintenance based on sensor data. For this project, we used test data to demonstrate how the model works in predicting maintenance needs. Additionally, Langchain and an AI-powered chatbot were integrated into the app to provide explanations for the predictions, offering deeper insights into why maintenance is recommended.
 
